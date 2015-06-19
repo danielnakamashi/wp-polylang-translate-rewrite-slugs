@@ -7,5 +7,6 @@
             "email": "dnakamashi@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
